@@ -1,0 +1,4 @@
+How do i dynamically set font size?
+When should i use em vs rem 
+how to set width dynamically?
+what is the html tag should we use for tags?
